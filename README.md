@@ -9,11 +9,11 @@ The game supports both Single Player (Player vs Computer) and Two Player (local 
 
 ## Controls
 Player 1:
-Up Arrow - Move Up
+Up Arrow - Move Up,  
 Down Arrow - Move Down
 
 Player 2:
-W - Move Up
+W - Move Up,  
 S - Move Down
 
 ## Features
