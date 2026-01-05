@@ -26,7 +26,8 @@ S - Move Down
 
 
 ## Built With
-Unity (2D)  Visual Studio Community
+Unity (2D)  
+Visual Studio Community
 
 
 
