@@ -4,8 +4,8 @@ A classic 2D Pong game built using Unity and C#.
 The game supports both Single Player (Player vs Computer) and Two Player (local multiplayer) modes.
 
 ## Game Modes
-Single Player: Player vs Computer
-Two Player: Player 1 vs Player 2 on the same keyboard
+-Single Player: Player vs Computer
+-Two Player: Player 1 vs Player 2 on the same keyboard
 
 ## Controls
 Player 1:
@@ -26,8 +26,8 @@ S - Move Down
 
 
 ## Built With
-Unity (2D)
-Visual Studio Community
+-Unity (2D)
+-Visual Studio Community
 
 
 
