@@ -8,11 +8,11 @@ The game supports both Single Player (Player vs Computer) and Two Player (local 
 2. Two Player: Player 1 vs Player 2 on the same keyboard
 
 ## Controls
-Player 1:
+Player 1:  
 Up Arrow - Move Up,  
 Down Arrow - Move Down
 
-Player 2:
+Player 2:  
 W - Move Up,  
 S - Move Down
 
@@ -26,7 +26,7 @@ S - Move Down
 
 
 ## Built With
-Unity (2D), Visual Studio Community
+Unity (2D)  Visual Studio Community
 
 
 
